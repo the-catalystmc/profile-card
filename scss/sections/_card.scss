@@ -17,7 +17,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 65%;
+  height: 370px;
   width: 350px;
   border-radius: 18px;
   background: white;
@@ -43,7 +43,7 @@ body {
   }
 
   &__userinfo {
-    margin: 85px 0 0 0;
+    margin: 90px 0 0 0;
     text-align: center;
   }
 
@@ -71,7 +71,7 @@ body {
     border-width: 0;
     color: hsl(230, 17%, 86%);
     background-color:hsl(230, 17%, 86%);
-		margin: 30px 0;
+		margin: 22px 0;
   }
 
   &__stats {
